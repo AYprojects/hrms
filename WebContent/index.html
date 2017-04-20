@@ -1,0 +1,55 @@
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+  <script src="bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/jquery.min.js"></script>
+  <script src="bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+<!-- navbar -->
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">HRMS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li class="dropdown">
+	     <a class="dropdown-toogle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Role<span class="caret"></span></a>
+		 <ul class="dropdown-menu">
+		     <li class="dropdown">
+			    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="AddRole.html">Add</a>
+			 </li>
+		     <li class="dropdown">
+			    <a class="dropdown-toggle" href="RoleListing.html">Listing</a>
+			 </li>
+		 </ul>
+	  </li>
+      <li><a href="#">User</a></li>
+      <li><a href="#">Leave</a></li>
+      <li><a href="#">Task</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Vertical navbar -->
+<nav>
+  <ul class="nav nav-pills nav-stacked span2">
+    <li><a  class="glyphicon glyphicon-pencil" aria-hidden="true" href="ApplyLeave.html">Apply Leave</a></li>
+    <li><a class="glyphicon glyphicon-list" href="UserLeaveListing.html">My Leave List</a></li>
+    <li><a  class="glyphicon glyphicon-user" href="AllLeaveListing.jsp">Leave Listing</a></li>
+
+    <li><a  class="glyphicon glyphicon-list" href="./AddTask.html">Add Task</a></li>
+    <li><a  class="glyphicon glyphicon-list" href="./AllTaskListing.jsp">My Task Listing</a></li>
+    <li><a  class="glyphicon glyphicon-list" href="./AllTaskListing.jsp">All Task Listing</a></li>
+
+    <li><a  class="glyphicon glyphicon-list" href="./AddUser.jsp">Add User</a></li>
+    <li><a  class="glyphicon glyphicon-list" href="./UserListing.jsp">User Listing</a></li>
+
+    <li><a  class="glyphicon glyphicon-list" href="AddRole.html">Add Role</a></li>
+    <li><a  class="glyphicon glyphicon-list" href="RoleListing.jsp">Role Listing</a></li>
+	</ul>
+</nav>
+</body>
+</html>
