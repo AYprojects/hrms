@@ -21,9 +21,13 @@ IDE: Netbeans/Eclipse
 RESOURCES:
 
 Java 8.0: https://www.oracle.com/java/index.html
+
 MySQL: https://www.mysql.com/
+
 Hibernate ORM: http://hibernate.org/orm/
+
 Eclipse: https://www.eclipse.org/downloads/
+
 Bootstrap: http://getbootstrap.com/
 
 ABOUT THE AUTHOR
