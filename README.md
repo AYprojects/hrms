@@ -1,7 +1,7 @@
 # hrms
 README
 
-#hH1 Human Resources Management System
+#H1 Human Resources Management System
 
 ABOUT THE PROJECT
 
