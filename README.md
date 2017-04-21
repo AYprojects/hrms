@@ -1,25 +1,26 @@
 # hrms
+
 README
 
-H1 Human Resources Management System
+Human Resources Management System
 
 ABOUT THE PROJECT
 
 This is a simple human resources management system I built for a client when I was working at a software company as a full stack developer. This allows a medium or small enterprise to manage their employees and other related fields such as employee departments, employee leaves, employee tasks and much more. It uses html, css and bootstrap in the front end and hibernate ORM framework is implemented in the back end, the database is MySQL.
 
-TECHNOLOGY STACK
-
-Front End: HTML, CSS, Bootstrap
-
-Back End: Java servlets, Hibernate ORM framework
-
-Database: MySQL
-
 SYSTEM REQUIREMENTS:
 
-OS: Windows/Mac/Linux
+Operating system : Windows XP /2003 or Linux or Solaris
 
-IDE: Netbeans/Eclipse
+Programming Language : Java
+
+Web Applications : JDBC, Servlets, Hibernate ORM
+
+Database : MySQL
+
+IDE/Workbench : Eclipse 
+
+User Interface : HTML, CSS, Bootstrap
 
 RESOURCES:
 
