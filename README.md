@@ -1,7 +1,5 @@
 # hrms
 
-README
-
 Human Resources Management System
 
 ABOUT THE PROJECT
